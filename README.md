@@ -8,3 +8,8 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 3. **Container Mutations:** Adding elements dynamically to the back using `push_back()` and deleting the last element using `pop_back()`.
 4. **Safe Element Access:** Fetching boundary elements (`front()`, `back()`) and accessing specific indices with bounds-checking using `at()`.
 
+~~ 🛠️ Skills Learnt:
+* Declaring and initializing templated STL vectors (`vector<char>`).
+* Managing dynamic container size vs static memory bounds.
+* Using bounds-checked member functions (`at()`) over raw subscript operators (`[]`) for safe element traversal.
+
