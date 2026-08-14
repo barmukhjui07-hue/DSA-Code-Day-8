@@ -17,3 +17,8 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 * **Automatic Type Casting:** Pushing an integer (e.g., `vec.push_back(25)`) into a `vector<char>` implicitly converts the number into its ASCII character representation (`25` corresponds to the *EM* control character).
 * **`at()` vs Subscript `[]`:** While `vec[0]` directly accesses memory without verification, `vec.at(0)` performs bounds-checking and throws an `out_of_range` exception if the index is invalid.
 
+~~ ⚙️ How to Run:
+1. Open terminal in your code directory.
+2. Compile the file using `g++`:
+   ```bash
+   g++ STL/Day8_VectorBasics.cpp -o VectorBasics
