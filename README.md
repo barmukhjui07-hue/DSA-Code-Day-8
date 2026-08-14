@@ -1,2 +1,3 @@
-# DSA-Code-Day-8
-Standard Template Library (STL) Vector Basics &amp; Dynamic Array Operations
+~~ 🚀 Data Structures & Algorithms Showcase
+Daily tracking of DSA problems, C++ implementation, and core concepts.
+
